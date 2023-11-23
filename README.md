@@ -3,13 +3,12 @@ GPT-4 Powered Chat App Disguised as Windows Notepad
 
 ![Image of Version](https://img.shields.io/badge/version-v1.0-green)
 ![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-qt.svg)](https://forthebadge.com)
-
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![OpenAI GPT-4](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+
 
 
 ![Demo](./demo.png)
